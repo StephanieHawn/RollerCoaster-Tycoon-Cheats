@@ -1,6 +1,8 @@
 # RollerCoaster-Tycoon-Cheats
 RollerCoaster Tycoon Cheats &amp; Codes for PC (original and expansion packs only)
 
+Cheats are on the [wiki](https://github.com/StephanieHawn/RollerCoaster-Tycoon-Cheats/wiki)
+
 ![](http://i.giphy.com/tsvkiHCspThCM.gif)
 
 ## Game Details
